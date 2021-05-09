@@ -1,9 +1,4 @@
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/817424181137244162/840964664259117056/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832353530313535313335.png?width=400&height=80"></a>
-</p>
-
-
-<p align="center">
   <a href="https://discord.gg/cZkqyaRkb6">
     <img src="https://cdn.discordapp.com/attachments/825501551350775828/836664087890362399/fdsafdsaf.png"></a>
 </p>
