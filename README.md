@@ -14,7 +14,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9.4-yellow"></a>
 </p>
 
-<h2 align="center">My github profile stastictics.</h2>
+<h2 align="center">Profile stats.</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wreckt-rgb&show_icons=true&theme=dark&locale=en"/>
 <br />
