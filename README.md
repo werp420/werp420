@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center">My main programming language.</h2>
+<h2 align="center">My main programming languages.</h2>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/835652361715712020/842758450962366480/asgsdag.png"></a>
 </p>
